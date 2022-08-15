@@ -1,6 +1,7 @@
 {
-  "hello": "Hallo Webpack",
+  "headline": "Webpack & TS & GitHub Pages",
   "button": {
-    "printMe": "Print ME Here"
-  }
+    "printMe": "print env"
+  },
+  "iconText": "including assets"
 }
