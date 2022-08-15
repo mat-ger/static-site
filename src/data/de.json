@@ -1,0 +1,6 @@
+{
+  "hello": "Hallo Webpack",
+  "button": {
+    "printMe": "Print ME Here"
+  }
+}
