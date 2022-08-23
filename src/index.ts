@@ -1,3 +1,5 @@
+// change to factory
+
 import "./style.css";
 
 import * as _ from "lodash";
